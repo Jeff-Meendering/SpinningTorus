@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <math.h>
+#include <string.h>
+#include <unistd.h>
 
 // floating rotaing torus
 int main() {
